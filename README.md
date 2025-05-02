@@ -128,4 +128,4 @@ Contributions are welcome!
 - [Cardiff NLP](https://github.com/cardiffnlp) for the pre-trained sentiment analysis model
 
 ## License
-MIT License - See [LICENSE](LICENSE) for details.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
